@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SmudgerLETPlain';
+    src: url('54151__.eot');
+    src: url('54151__.eot') format('embedded-opentype'),
+         url('54151__.woff') format('woff'),
+         url('54151__.ttf') format('truetype'),
+         url('54151__.svg#SmudgerLETPlain') format('svg');
+}
